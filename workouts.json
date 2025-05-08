@@ -1,0 +1,53 @@
+{
+    "cardio": [
+        {
+            "id": "cardio1",
+            "name": "Running",
+            "difficulty": "Intermediate",
+            "calories": 300,
+            "duration": 30,
+            "instructions": "Run at moderate pace for 30 minutes",
+            "video": "https://example.com/running"
+        },
+        {
+            "id": "cardio2",
+            "name": "Cycling",
+            "difficulty": "Beginner",
+            "calories": 250,
+            "duration": 45,
+            "instructions": "Cycle at moderate intensity for 45 minutes",
+            "video": "https://example.com/cycling"
+        }
+    ],
+    "strength": [
+        {
+            "id": "strength1",
+            "name": "Push-ups",
+            "difficulty": "Beginner",
+            "calories": 100,
+            "duration": 10,
+            "instructions": "3 sets of 10 reps",
+            "video": "https://example.com/pushups"
+        },
+        {
+            "id": "strength2",
+            "name": "Squats",
+            "difficulty": "Beginner",
+            "calories": 120,
+            "duration": 15,
+            "instructions": "3 sets of 15 reps",
+            "video": "https://example.com/squats"
+        }
+    ],
+    "flexibility": [
+        {
+            "id": "flex1",
+            "name": "Yoga Flow",
+            "difficulty": "Beginner",
+            "calories": 150,
+            "duration": 20,
+            "instructions": "Complete a basic yoga sequence",
+            "video": "https://example.com/yoga"
+        }
+    ]
+}
